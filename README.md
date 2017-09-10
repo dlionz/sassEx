@@ -1,3 +1,3 @@
-#BMO SASS Project#
+# BMO SASS Project #
 
-[<img src="BMO.png">]
+<img src="BMO.png">
